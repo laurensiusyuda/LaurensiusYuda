@@ -8,7 +8,6 @@ Hi there 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurensiusyuda)](https://github.com/laurensiusyuda)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=laurensiusyuda&repo=namarepo&theme=radical)](https://github.com/laurensiusyuda/namarepo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=laurensiusyuda&repo=Petani-Tambak&theme=radical)](https://github.com/laurensiusyuda/Petani-Tambak)
 
-
-
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
