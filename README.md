@@ -9,6 +9,5 @@ Ready to contribute diverse skill set for professional growth in this field.
 
 </div>
 
-<div align="center">
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laurensiusyuda)](https://github.com/laurensiusyuda) [![Laurensius Yuda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=laurensiusyuda&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/laurensiusyuda)
-</div>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laurensiusyuda)](https://github.com/laurensiusyuda)
+[![Laurensius Yuda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=laurensiusyuda&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/laurensiusyuda)
