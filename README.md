@@ -8,4 +8,7 @@ Hi there 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurensiusyuda)](https://github.com/laurensiusyuda)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=laurensiusyuda&repo=namarepo&theme=radical)](https://github.com/laurensiusyuda/namarepo)
+
+
 
