@@ -2,4 +2,5 @@
 - 👀 I’m interested in Flutter  
 - 🌱 I’m currently learning Multiplatform Development 
 - 💞️ I’m looking to collaborate on anyone we can
-- 📫 How to reach me Linkedin : Laurensius Yuda 
+- 📫 How to reach me: 
+  - LinkedIn: Laurensius Yuda [🔗]([https://www.linkedin.com/in/laurensiusyuda](https://www.linkedin.com/in/laurensius-yuda/))
