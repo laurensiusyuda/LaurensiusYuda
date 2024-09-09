@@ -4,4 +4,3 @@
 - 💞️ I’m looking to collaborate on anyone we can
 - 📫 How to reach me: 
   - LinkedIn: Laurensius Yuda [🔗]([https://www.linkedin.com/in/laurensiusyuda](https://www.linkedin.com/in/laurensius-yuda/))
-  - Instagram : yuda_laurensius[🔗]([https://www.linkedin.com/in/laurensiusyuda](https://www.linkedin.com/in/laurensius-yuda/))
