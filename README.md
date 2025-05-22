@@ -47,11 +47,7 @@
 ## 🐍 Watch the Snake Eat My Contributions!
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laurensiusyuda/laurensiusyuda/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laurensiusyuda/laurensiusyuda/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/laurensiusyuda/laurensiusyuda/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/laurensiusyuda/laurensiusyuda/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
 </div>
 
 ## 📈 Activity Graph
@@ -62,11 +58,6 @@
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=laurensiusyuda&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
-## 💻 Most Used Languages
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=laurensiusyuda&theme=tokyonight&layout=compact" alt="WakaTime Stats" />
 </div>
 
 ## 🤝 Let's Connect!
@@ -88,14 +79,3 @@ const laurensius = {
     currentFocus: "Building scalable mobile and web applications",
     funFact: "I debug with console.log and it works! 🐛"
 };
-```
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=laurensiusyuda&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <h3>💖 Thank you for visiting my profile!</h3>
-  <p>⭐ Don't forget to star my repositories if you find them useful!</p>
