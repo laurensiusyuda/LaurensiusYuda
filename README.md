@@ -1,4 +1,4 @@
-e# 👋 Hi, I'm Laurensius Yuda
+# 👋 Hi, I'm Laurensius Yuda
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Laravel+%26+Flutter+Expert;Backend+API+Specialist;Always+Learning+New+Tech" alt="Typing SVG" />
